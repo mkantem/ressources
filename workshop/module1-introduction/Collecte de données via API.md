@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Collecte de données via API"
-parent: "Introduction et collecte de données"
+parent: "Introduction et scraping de données"
 grand_parent: "Traitements du langage et Social media"
 nav_order: 2
 ---
