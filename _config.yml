@@ -6,7 +6,10 @@ url: "http://localhost:4000" # base URL for local development
 
 
 # Theme settings
-theme: "just-the-docs"
+#theme: "just-the-docs"
+
+remote_theme: "just-the-docs/just-the-docs"
+
 
 defaults:
   - scope:
