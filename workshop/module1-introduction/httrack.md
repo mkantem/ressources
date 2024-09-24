@@ -18,18 +18,31 @@ HTTrack est un logiciel libre et open-source qui vous permet de télécharger et
 Pour installer HTTrack :
 
 1. **Téléchargez HTTrack** depuis [ce lien](https://www.httrack.com/page/2/en/index.html).
-2. Installez le logiciel en suivant les instructions sur votre système d’exploitation (Windows, macOS, Linux).
+
+![Téléchargez HTTrack](../../assets/images/workshop/httrack1.png) 
+2. Installez le logiciel en suivant les instructions sur votre système d’exploitation (Windows, [macOS](https://lucidgen.com/en/how-to-use-httrack-on-mac/#:~:text=like%20a%20coder%E2%80%9D.-,Install%20HTTrack%20on%20Mac,can%20install%20HTTrack%20for%20Macbook.), Linux).
 
 ### Utilisation de HTTrack
 
 Une fois installé, voici comment utiliser HTTrack pour copier un site web :
 
+![HTTrack](../../assets/images/workshop/httrack2.png) 
+
 1. **Lancez HTTrack** et cliquez sur "Suivant" pour commencer un nouveau projet.
-2. **Nom du projet** : Donnez un nom à votre projet, par exemple "Scraping Site Web".
+2. **Nom du projet** : Donnez un nom à votre projet, par exemple "Scraping site web".
 3. **Catégorie** : Vous pouvez laisser cette option par défaut ou créer une nouvelle catégorie.
-4. **Adresse Web (URL)** : Entrez l’URL du site web que vous souhaitez copier. Par exemple, `https://exemple.com`.
+
+![HTTrack](../../assets/images/workshop/httrack3.png) 
+
+4. **Adresse Web (URL)** : Entrez l’URL du site web que vous souhaitez copier. Par exemple, `https://example.com`.
 5. **Choisissez l'option de téléchargement** : Vous pouvez choisir de copier uniquement certaines parties du site, comme les pages HTML, ou tout le contenu (images, scripts, etc.).
-6. **Lancez le téléchargement** : Cliquez sur "Terminer" pour démarrer le processus. HTTrack commencera à copier le site sur votre disque local.
+
+![HTTrack](../../assets/images/workshop/httrack4ex.png) 
+
+6. **Lancez le téléchargement** : Cliquez sur "Terminer / Finish" pour démarrer le processus. HTTrack commencera à copier le site sur votre disque local.
+
+![HTTrack](../../assets/images/workshop/httrack5.png) 
+
 7. **Consultation hors ligne** : Une fois le site copié, vous pourrez ouvrir les fichiers HTML directement depuis votre disque dur, en naviguant comme si vous étiez en ligne.
 
 ### Astuces et limitations de HTTrack

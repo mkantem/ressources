@@ -27,12 +27,11 @@ Ce module est structuré en plusieurs sections :
 - **Section 2** : Utilisation des interfaces graphiques pour l’interaction avec des APIs.
 - **Section 3** : Scraping de données pratique à partir de plateformes en ligne.
 
-L’analyse des données extraites sera abordée dans le second module de ce cours. Ici, nous nous concentrerons uniquement sur l'extraction des données à l'aide d'outils comme **HTTrack**, **Insomnia**, et d’autres logiciels à interface graphique.
+L’analyse des données extraites sera abordée dans le second module de ce cours. Ici, nous nous concentrerons uniquement sur l'extraction des données.
 
 ## Pré-requis
 
-Aucun pré-requis technique n’est nécessaire pour suivre ce module. Tous les outils que nous utiliserons sont disponibles gratuitement et sont adaptés aux utilisateurs sans expérience en programmation.
-
+Aucun pré-requis technique n’est nécessaire pour suivre ce module. Tous les outils que nous utiliserons sont adaptés aux utilisateurs sans expérience en programmation.
 
 ## Premiers concepts
 

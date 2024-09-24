@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+{% include about.md %}

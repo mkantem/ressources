@@ -9,7 +9,7 @@ has_children: true
 
 # Section 1: Outils de scraping sans codage
 
-Dans cette première section, nous allons explorer différents outils graphiques qui vous permettent de scraper des données sans écrire une seule ligne de code. Ces outils sont spécialement conçus pour extraire des informations de sites web et de plateformes comme les réseaux sociaux.
+Dans cette première section, nous allons explorer différents outils graphiques qui vous permettent de scraper des données sans écrire une seule ligne de code. Ces outils sont spécialement conçus pour extraire des informations de sites web et de plateformes en ligne.
 
 ## Outils présentés dans cette section :
 
@@ -21,12 +21,16 @@ Dans cette première section, nous allons explorer différents outils graphiques
   - Interface graphique intuitive.
   - Disponible en français.
   
-### 2. **Scrapy (via des interfaces graphiques simplifiées)**
-- **Description** : Scrapy est un framework de scraping puissant. Bien qu'il soit généralement utilisé avec du code Python, certaines interfaces graphiques simplifiées permettent de l'utiliser sans programmation.
-- **Utilisation** : Nous allons vous montrer comment vous pouvez utiliser des interfaces graphiques connectées à Scrapy pour scraper des données à partir de sites web et de réseaux sociaux.
+### 2. **Octoparse**
+- **Description** : Octoparse est un outil de scraping de données sans code qui permet d'extraire des informations de sites web via une interface graphique. Il est idéal pour les utilisateurs sans compétences techniques, et permet de scraper des données statiques et dynamiques (même celles chargées via JavaScript). Disponible en français, Octoparse est utilisé pour collecter des données à partir de sites d'e-commerce, d'actualités, et bien plus encore.
+- **Utilisation** : Nous allons vous montrer comment vous pouvez utiliser Octoparse (la version gratuite!)
+
 - **Points forts** :
-  - Puissance du scraping pour des structures complexes.
-  - Utilisation simplifiée via des interfaces.
+  - Sans code : Interface simple et intuitive.
+  - Gestion des sites dynamiques : Prend en charge les sites utilisant JavaScript.
+  - Multilingue : Disponible en français.
+  - Gratuit : Plan gratuit avec des fonctionnalités de base.
+  - Export facile : Données exportables en CSV, JSON, Excel.
   
 ### 3. **Web Scraper (Extension Chrome)**
 - **Description** : Web Scraper est une extension de navigateur qui permet de scraper des données directement depuis des pages web via une interface utilisateur simple.
@@ -35,23 +39,28 @@ Dans cette première section, nous allons explorer différents outils graphiques
   - Extension facile à installer.
   - Intégration directe avec le navigateur Chrome.
   - Exportation facile des données en fichiers CSV ou JSON.
+
+### 4. Scrapy-GUI
+ **Description** Scrapy-GUI est une interface graphique pour le framework Scrapy (phyton), permettant de scraper des données sans écrire de code. Il simplifie la création de spiders et l'extraction de données depuis des sites web pour les utilisateurs non techniques.
+
+**Utilisation** Nous allons voir montrer comment vous pouvez utiliser cet outils
+**Points Forts**
+- Interface intuitive : Aucune compétence en codage n'est requise.
+- Puissance de Scrapy : Exploite la robustesse de Scrapy pour gérer des sites complexes.
+- Open-source : Gratuit et facilement personnalisable.
   
 ### Concepts abordés :
 
 - **Éthique du scraping** : Il est crucial de respecter les conditions d'utilisation des sites web et les politiques de confidentialité lors du scraping. Nous discuterons des pratiques recommandées et des limites légales concernant l'extraction de données.
 - **Limites du scraping sans codage** : Bien que ces outils soient puissants, ils ont leurs limites, notamment en termes de flexibilité et de gestion de sites web dynamiques. Nous aborderons ces limitations et comment les contourner, dans la mesure du possible.
 
+**Pour ceux qui sont intéressés, cet espace ressource propose également mon module sur [l'apprentissage de la programmation](https://ressources.mkante.ml/programming/apprendre-programmer.html) et la découverte des langages de programmation, conçu pour être accessible aux non-informaticiens ou debutants**
+
 ---
 
 ## Exercices pratiques
 
-Au cours de cette section, nous allons nous concentrer sur l'utilisation pratique de ces outils.
-
-- **Exercice 1** : Utilisation de **HTTrack** pour cloner un site web et consulter les pages hors ligne.
-- **Exercice 2** : Utilisation de **Web Scraper** pour extraire des données d'une page web structurée (tableau, liste).
-- **Exercice 3** : Scraping de données d'un site web dynamique avec une interface graphique pour **Scrapy**.
-
-Chaque exercice sera accompagné d’un guide détaillé pour vous aider à comprendre les étapes et à utiliser les outils efficacement.
+Au cours de cette section, nous allons nous concentrer sur l'utilisation pratique de ces outils. Chaque exercice sera accompagné d’un guide détaillé pour vous aider à comprendre les étapes et à utiliser les outils efficacement. Naviguez les parties selon vos preferences!
 
 ---
 
