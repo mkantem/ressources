@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Analyse des Réseaux"
+title: "Analyse des réseaux"
 nav_order: 3
 parent: "Traitements du langage et Social media"
 has_children: true

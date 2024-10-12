@@ -7,7 +7,7 @@ nav_order: 1
 has_children: true
 ---
 
-# Section 1: Outils de scraping sans codage
+# Outils de scraping sans codage
 
 Dans cette première section, nous allons explorer différents outils graphiques qui vous permettent de scraper des données sans écrire une seule ligne de code. Ces outils sont spécialement conçus pour extraire des informations de sites web et de plateformes en ligne.
 
@@ -20,10 +20,17 @@ Dans cette première section, nous allons explorer différents outils graphiques
   - Simplicité d'utilisation.
   - Interface graphique intuitive.
   - Disponible en français.
-  
-### 2. **Octoparse**
+
+### 2. **Web Scraper (Extension Chrome)**
+- **Description** : Web Scraper est une extension de navigateur qui permet de scraper des données directement depuis des pages web via une interface utilisateur simple.
+- **Utilisation** : Vous apprendrez à configurer et utiliser Web Scraper pour extraire des données structurées, telles que des tableaux ou des listes, depuis des sites web.
+- **Points forts** :
+  - Extension facile à installer.
+  - Intégration directe avec le navigateur Chrome.
+  - Exportation facile des données en fichiers CSV ou JSON.
+
+### 3. **Octoparse**
 - **Description** : Octoparse est un outil de scraping de données sans code qui permet d'extraire des informations de sites web via une interface graphique. Il est idéal pour les utilisateurs sans compétences techniques, et permet de scraper des données statiques et dynamiques (même celles chargées via JavaScript). Disponible en français, Octoparse est utilisé pour collecter des données à partir de sites d'e-commerce, d'actualités, et bien plus encore.
-- **Utilisation** : Nous allons vous montrer comment vous pouvez utiliser Octoparse (la version gratuite!)
 
 - **Points forts** :
   - Sans code : Interface simple et intuitive.
@@ -32,18 +39,19 @@ Dans cette première section, nous allons explorer différents outils graphiques
   - Gratuit : Plan gratuit avec des fonctionnalités de base.
   - Export facile : Données exportables en CSV, JSON, Excel.
   
-### 3. **Web Scraper (Extension Chrome)**
-- **Description** : Web Scraper est une extension de navigateur qui permet de scraper des données directement depuis des pages web via une interface utilisateur simple.
-- **Utilisation** : Vous apprendrez à configurer et utiliser Web Scraper pour extraire des données structurées, telles que des tableaux ou des listes, depuis des sites web.
-- **Points forts** :
-  - Extension facile à installer.
-  - Intégration directe avec le navigateur Chrome.
-  - Exportation facile des données en fichiers CSV ou JSON.
+### 4. **Lobstr**
 
-### 4. Scrapy-GUI
+- **Description** : outil en ligne qui facilite l’extraction de données comme [Octoparse](#3-octoparse) sans nécessiter de compétences en programmation. Il est particulièrement utile pour les chercheurs, les analystes et toute personne souhaitant collecter des tweets sur des sujets spécifiques, des hashtags ou des comptes utilisateurs.
+
+- **Points forts** :
+  - Sans code : interface simple et intuitive.
+  - Gestion des sites dynamiques : prend en charge les sites utilisant JavaScript.
+  - Gratuit : plan gratuit avec des fonctionnalités de base.
+  - Export facile : données exportables en CSV, JSON, Excel.
+
+### 5. Scrapy-GUI
  **Description** Scrapy-GUI est une interface graphique pour le framework Scrapy (phyton), permettant de scraper des données sans écrire de code. Il simplifie la création de spiders et l'extraction de données depuis des sites web pour les utilisateurs non techniques.
 
-**Utilisation** Nous allons voir montrer comment vous pouvez utiliser cet outils
 **Points Forts**
 - Interface intuitive : Aucune compétence en codage n'est requise.
 - Puissance de Scrapy : Exploite la robustesse de Scrapy pour gérer des sites complexes.
@@ -60,10 +68,7 @@ Dans cette première section, nous allons explorer différents outils graphiques
 
 ## Exercices pratiques
 
-Au cours de cette section, nous allons nous concentrer sur l'utilisation pratique de ces outils. Chaque exercice sera accompagné d’un guide détaillé pour vous aider à comprendre les étapes et à utiliser les outils efficacement. Naviguez les parties selon vos preferences!
+Nous allons nous concentrer sur l'utilisation pratique de ces outils. Chaque exercice sera accompagné d’un guide détaillé pour vous aider à comprendre les étapes et à utiliser les outils efficacement. Naviguez les parties selon vos preferences (ordre au choix)!
 
 ---
 
-## Conclusion de la Section 1
-
-À la fin de cette section, vous aurez appris à utiliser des outils sans codage pour extraire des données de divers types de sites web et plateformes. Vous serez également sensibilisé aux aspects éthiques et légaux liés au scraping de données en ligne.

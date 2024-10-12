@@ -4,7 +4,7 @@ title: "Web Scraper (extension Chrome)"
 parent: "Outils sans codage"
 grand_parent: "Introduction et scraping de données"
 ancestor: "Traitements du langage et Social media"
-nav_order: 3
+nav_order: 2
 ---
 
 # Web Scraper (Extension Chrome)
@@ -29,7 +29,7 @@ Web Scraper est un outil très intuitif permettant de créer des plans de scrapi
 
 1. **Ajouter l'extension à Chrome** :
 
-   - Rendez-vous sur le **Chrome Web Store** via [ce lien](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn).
+   - Rendez-vous sur le **Chrome Web Store** via [ce lien](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn){:target="_blank"}.
    
      ![Web scraper](../../assets/images/workshop/webscrap1.png)
 
@@ -43,7 +43,7 @@ Web Scraper est un outil très intuitif permettant de créer des plans de scrapi
 
 Voici un guide étape par étape pour utiliser Web Scraper et extraire des données à partir d'une page web.
 
-### Étape 0 : Ouvrir la barre d'outils Web Scraper
+### Étape 0 : Ouvrir la barre d'outils Web scraper
 
 - Ouvrir le menu du navigateur
 - Cliquer sur Plus d'outils
@@ -51,11 +51,11 @@ Voici un guide étape par étape pour utiliser Web Scraper et extraire des donn�
 - Déplacer les outils de développement vers le bas
 - Ouvrir l'onglet Web Scraper
 
-[Voir en video ici](https://youtu.be/3_jKuq5CJdY?list=TLGGKtf7KLGt-gkxOTA5MjAyNA)
+[Voir en video ici](https://youtu.be/3_jKuq5CJdY?list=TLGGKtf7KLGt-gkxOTA5MjAyNA){:target="_blank"}
 
 ![Web scraper](../../assets/images/workshop/webscrap2.png)
 
-### Étape 1 : Créer un nouveau Sitemap
+### Étape 1 : Créer un nouveau sitemap
 
 - Cliquez sur l'icône **Web Scraper** dans la barre d'outils de Chrome.
 - Cliquez sur **Sitemaps** puis sur **Create new sitemap**.
@@ -81,22 +81,23 @@ Si la page web que vous scrapez a plusieurs pages, vous pouvez configurer la pag
 - Sélectionnez **Link** comme type de sélecteur.
 - Web Scraper suivra ces liens pour extraire des données sur plusieurs pages.
 
-### Étape 4 : Exécuter le Scraping
+### Étape 4 : Exécuter le scraping
 
 - Une fois que tous vos sélecteurs sont configurés, cliquez sur **Scrape** pour commencer l'extraction des données.
 - Web Scraper ouvrira un nouvel onglet et commencera à parcourir les pages pour scraper les données.
 - Vous verrez un indicateur de progression pendant que les données sont extraites.
 
-### Étape 5 : Exporter les Données
+### Étape 5 : Exporter les données
 
 - Une fois le scraping terminé, vous pouvez exporter les données collectées.
 - Cliquez sur **Export Data** et choisissez le format d'exportation : **CSV** ou **XLSX**.
 - Ouvrez le fichier exporté dans un tableur ou un autre logiciel pour analyser les données.
 
 ---
-https://webscraper.io/web-scraper-first-time-install
 
-## Exercice Pratique
+[https://webscraper.io/web-scraper-first-time-install](https://webscraper.io/web-scraper-first-time-install){:target="_blank"}
+
+## Exercice pratique
 
 ### Objectif
 
@@ -114,26 +115,18 @@ Utiliser Web Scraper pour extraire les titres et les dates des articles d'un blo
 
 ---
 
-## Avantages et Limitations
+## Avantages et limitations
 
 ### Avantages
 
 - **Gratuit** : Web Scraper est entièrement gratuit à utiliser.
-- **Facilité d'utilisation** : Pas besoin de compétences en programmation.
-- **Compatible avec Chrome** : Fonctionne directement dans le navigateur, sans installation complexe.
+- **Facilité d'utilisation** : pas besoin de compétences en programmation.
+- **Compatible avec Chrome** : fonctionne directement dans le navigateur, sans installation complexe.
 
 ### Limitations
 
-- **Sites dynamiques** : Web Scraper peut avoir des difficultés avec des sites qui chargent dynamiquement du contenu via JavaScript.
-- **Données volumineuses** : Peut ne pas être idéal pour scraper de très grandes quantités de données ou des sites complexes.
-
-## Éthique et Légalité du Scraping
-
-Il est essentiel de respecter les conditions d'utilisation et les politiques de confidentialité des sites web lors du scraping. Assurez-vous que :
-
-- **Le site autorise le scraping** : Certains sites interdisent explicitement le scraping dans leurs conditions d'utilisation.
-- **Vous ne collectez pas de données sensibles** : Ne scrapez pas des informations personnelles sans autorisation.
-- **Vous respectez la fréquence des requêtes** : Ne surchargez pas le site avec trop de requêtes.
+- **Sites dynamiques** : web Scraper peut avoir des difficultés avec des sites qui chargent dynamiquement du contenu via JavaScript.
+- **Données volumineuses** : peut ne pas être idéal pour scraper de très grandes quantités de données ou des sites complexes.
 
 ---
 

@@ -4,7 +4,7 @@ title: "Scrapy-GUI"
 parent: "Outils sans codage"
 grand_parent: "Introduction et scraping de données"
 ancestor: "Traitements du langage et Social media"
-nav_order: 4
+nav_order: 5
 ---
 
 # Scrapy-GUI
@@ -15,11 +15,12 @@ nav_order: 4
 
 ### Étapes d'installation :
 
-1. Assurez-vous d'avoir [**Python**](https://etudestech.com/decryptage/comment-installer-python/){:target="_blank"} installé sur votre machine.
+1. Assurez-vous d'avoir [**Python**](https://etudestech.com/decryptage/comment-installer-python/){:target="_blank"} installé sur votre machine. [Download ici](https://www.python.org/downloads/){:target="_blank"}.  
 2. Installez **Scrapy-GUI** via pip en exécutant la commande suivante :
 ```bash
     pip install scrapy-GUI
 ```
+![Web scraper](../../assets/images/workshop/sgui1.png)
 
 3. Une fois installé, lancez l'application avec la commande suivante :
 ```bash
@@ -27,40 +28,30 @@ nav_order: 4
     ou 
     scrapy_gui.open_browser()
 ```
+
+![Web scraper](../../assets/images/workshop/sgui2.png)
 Cela ouvrira l'interface graphique de Scrapy où vous pourrez configurer vos projets de scraping.
 
+![Web scraper](../../assets/images/workshop/sgui3.png)
 ## Utilisation de Scrapy-GUI
 
-### Étape 1 : Créer un nouveau spider
+### Étape 1 : Onglet "Browser"
 
-- Après avoir ouvert l'interface, cliquez sur **"New Project"** pour créer un nouveau projet de scraping.
-- Entrez l'URL du site web que vous souhaitez scraper et donnez un nom à votre projet.
+- Après avoir ouvert l'interface
+- Entrez l'URL du site web que vous souhaitez scraper 
 
-### Étape 2 : Définir les éléments à scraper
+![Web scraper](../../assets/images/workshop/sgui4.png)
 
-- Sélectionnez les éléments que vous souhaitez extraire (titres, images, etc.) en les pointant dans l'interface.
-- Vous pouvez également configurer des règles pour suivre des liens et scraper plusieurs pages.
+### Étape 2 : Onglet "Tools" -- Définir les éléments à scraper
 
-### Étape 3 : Exécuter le spider
+- L'onglet Outils contient différentes sections permettant d'analyser le contenu de la page. Le but de cet onglet est de faciliter le test des requêtes et du code à utiliser dans un **scrapy spider**.
+- Par exemple, pour obtenir les auteurs des articles de la section politique, nous pouvons utiliser la requête suivante (voir image)
 
-- Une fois les éléments définis, cliquez sur **"Start Spider"** pour démarrer le scraping.
-- Les données collectées seront affichées dans la console et peuvent être exportées en différents formats (CSV, JSON, etc.).
+![Web scraper](../../assets/images/workshop/sgui6.png)
 
-## Exercice Pratique avec Scrapy-GUI
-
-### Objectif
-
-Utiliser **Scrapy-GUI** pour extraire les titres et les dates de publication des articles d'un site d'actualités.
-
-### Étapes
-
-1. **Installer Scrapy-GUI** si ce n'est pas déjà fait en suivant les instructions d'installation ci-dessus.
-2. **Créer un nouveau projet** en entrant l'URL d'un site d'actualités (par exemple, [https://www.exemple-actualites.com](https://www.exemple-actualites.com)).
-3. **Sélectionner les éléments** : Identifiez les titres et les dates des articles en utilisant l'interface visuelle.
-4. **Configurer la pagination** pour extraire des données de plusieurs pages si nécessaire.
-5. **Exécuter le spider** et collecter les données.
-6. **Exporter les données** au format CSV pour les analyser dans un tableur comme **Excel** ou **Google Sheets**.
+![Web scraper](../../assets/images/workshop/sgui5.png)
 
 
 ## Conclusion
-Scrapy-GUI est une solution puissante pour les utilisateurs qui souhaitent utiliser Scrapy sans compétences en programmation. Il permet d'accéder à toutes les fonctionnalités avancées de Scrapy via une interface conviviale, rendant le scraping de sites complexes accessible à tous. C'est un excellent outil pour automatiser le scraping de données sans écrire de code ou presque peu, tout en conservant la flexibilité et la puissance de Scrapy.
+
+Comme vous l’aurez compris, cet outil nécessite un minimum de compétences techniques, mais il est important de le connaître au cas où il serait nécessaire. Pour approfondir, consultez ce [tutoriel](https://docs.scrapy.org/en/1.0/intro/tutorial.html){:target="_blank"}.
