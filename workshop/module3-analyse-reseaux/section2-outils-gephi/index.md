@@ -18,12 +18,14 @@ Gephi est un logiciel open-source d’analyse de réseaux et de visualisation. I
 - **Personnalisation** : couleurs, tailles, étiquettes pour une meilleure visualisation
 
 ### Installation
-Téléchargez Gephi depuis le site officiel : [Gephi.org](https://gephi.org/){:target="_blank"}.
+- Gephi a besoin de Java pour fonctionner correctement [Installation JDK JAva](/workshop/module2-analyse-texte/section00-prise-en-main-voyant-tools/index.html/#java)
 
+- Téléchargez Gephi depuis le site officiel : [Gephi.org](https://gephi.org/){:target="_blank"}.
+
+![VT](/assets/images/workshop/gephi/gephi1.png) 
 ---
 
 ## Analyse de réseaux avec Gephi
-
 ### Importation des données
 Préparez vos données en fichiers CSV avec :
 - **Nœuds** : identifiants et attributs des nœuds
@@ -45,21 +47,4 @@ Préparez vos données en fichiers CSV avec :
 
 ---
 
-## Étude de cas : analyse de tweets avec Gephi
-
-### Collecte des données Twitter
-1. Utilisez un outil comme **Lobster** ou le plugin pour collecter les tweets
-2. Organisez les données en nœuds (utilisateurs) et en arêtes (relations de mention, retweet, etc.)
-
-### Préparation et importation des données
-1. Créez des fichiers CSV pour les nœuds et arêtes
-2. Importez dans Gephi, en assignant des attributs aux nœuds (nombre de followers, localisation)
-
-### Analyse et interprétation
-- **Identification des influenceurs** : utilisez la centralité de degré
-- **Visualisation des communautés** : appliquez l'algorithme de Louvain et interprétez les sous-groupes
-
----
-
 - **Documentation officielle** : [Gephi Documentation](https://gephi.org/users/)
-- **Tutoriels en ligne** : cherchez "Tutoriel Gephi en français" sur YouTube pour des vidéos détaillées

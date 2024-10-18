@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Considérations éthiques et légales"
-nav_order: 4
+nav_order: 5
 parent: "Traitements du langage et Social media"
 has_children: true
 ---

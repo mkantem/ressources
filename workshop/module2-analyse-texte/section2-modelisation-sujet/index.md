@@ -3,7 +3,7 @@ layout: default
 title: "Modelisation de sujet"
 parent: "Analyse textuelle"
 grand_parent: "Traitements du langage et Social media"
-nav_order: 4
+nav_order: 3
 ---
 
 # Modélisation de sujets
@@ -86,7 +86,7 @@ Voici les étapes pour effectuer une modélisation de sujets avec Orange :
   - **Lemmatiser** (choisir la langue appropriée)
   - **Supprimer les mots vides** (sélectionner la liste de stop words en français)
 
-#### Étape 3 : Création du Sac de Mots
+#### Étape 3 : Création du sac de mots
 
 - **Widget utilisé** : **Bag of Words**
 - **Action** :
@@ -96,12 +96,12 @@ Voici les étapes pour effectuer une modélisation de sujets avec Orange :
 
 - **Widget utilisé** : **Topic Modeling**
 - **Paramètres à configurer** :
-  - **Nombre de sujets (K)** : Définir le nombre de sujets que vous souhaitez découvrir (par exemple, K = 5).
-  - **Algorithme** : Choisir LDA.
+  - **Nombre de sujets (K)** : définir le nombre de sujets que vous souhaitez découvrir (par exemple, K = 5).
+  - **Algorithme** : choisir LDA.
 - **Action** :
   - Lancer l'algorithme pour générer les sujets.
 
-#### Étape 5 : Visualisation des Sujets
+#### Étape 5 : visualisation des sujets
 
 - **Widget utilisé** : **Word Cloud** ou **Heat Map**
 - **Action** :
@@ -148,7 +148,7 @@ Voici les étapes pour effectuer une modélisation de sujets avec Orange :
 
 ### 6.1 Contexte
 
-- **Objectif** : Identifier les thèmes principaux discutés sur Twitter à propos d'un événement spécifique (par exemple, une élection, un événement sportif, une crise sanitaire).
+- **Objectif** : identifier les thèmes principaux discutés sur Twitter à propos d'un événement spécifique (par exemple, une élection, un événement sportif, une crise sanitaire).
 
 ### 6.2 Étapes
 

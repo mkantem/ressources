@@ -13,7 +13,7 @@ nav_order: 2
 ### Qu'est-ce qu'une API ?
 Une **API** (Interface de Programmation d'Applications) est un ensemble de définitions et de protocoles qui permet à différents logiciels de communiquer entre eux. Elle sert d'intermédiaire pour échanger des informations de manière structurée.
 
-> **Exemple** : Une API est comme un serveur dans un restaurant. Vous (le client) passez votre commande au serveur (API), qui va la chercher en cuisine (le serveur de données) et vous apporte le plat (les données).
+> **Exemple** : une API est comme un serveur dans un restaurant. Vous (le client) passez votre commande au serveur (API), qui va la chercher en cuisine (le serveur de données) et vous apporte le plat (les données).
 
 ### Pourquoi utiliser les APIs pour le scraping de données ?
 - **Avantages** :
@@ -40,7 +40,7 @@ Une **clé API** est comme un identifiant unique qui permet d'accéder à une AP
 ## APIs des réseaux sociaux populaires
 
 ### API Twitter
-- **Description** : L'API X (v2) permet d'accéder aux tweets, profils utilisateurs, tendances, etc.
+- **Description** : l'API X (v2) permet d'accéder aux tweets, profils utilisateurs, tendances, etc.
 - **Données accessibles** : tweets récents, informations sur les utilisateurs, tendances.
 - **Procédure d'accès** : 
   - Créer un compte développeur.
@@ -90,7 +90,7 @@ Une **clé API** est comme un identifiant unique qui permet d'accéder à une AP
 ### Restrictions d'accès
 - Limitations pour les comptes gratuits ou API fermées comme avec twitter depuis Mars 2023.
 
-### Barrières Techniques
+### Barrières techniques
 - Certaines APIs (en vrai, la majorité) peuvent nécessiter des connaissances en programmation.
 
 ### Disponibilité des données
@@ -108,17 +108,17 @@ Pour les chercheurs et autres utilisateurs intéressés par l'analyse des compor
 
 Bien que ce cours soit spécifiquement conçu pour les **non-développeurs**, je vous encourage vivement à explorer les bases de la programmation. Apprendre quelques notions de programmation vous permettra de tirer le meilleur parti des APIs et de développer vos analyses de données de manière plus avancée. Les connaissances en programmation ouvrent un monde de possibilités, vous permettant d'explorer les données de façon plus flexible et de personnaliser les analyses pour répondre aux besoins uniques de vos recherches.
 
-> **Suggestion** : Dans cette même section de ressources, vous trouverez un [**guide pour débutants en langages de programmation**](..\..\programming\apprendre-programmer.html). Ce guide est conçu pour introduire les bases du code et les outils essentiels, afin que vous puissiez vous lancer sans difficulté dans l'univers du développement.
+> **Suggestion** : dans cette même section de ressources, vous trouverez un [**guide pour débutants en langages de programmation**](..\..\programming\apprendre-programmer.html). Ce guide est conçu pour introduire les bases du code et les outils essentiels, afin que vous puissiez vous lancer sans difficulté dans l'univers du développement.
 
 En intégrant progressivement la programmation dans vos compétences, vous pourrez :
 - **Interagir directement avec les APIs** : programmer des requêtes personnalisées pour collecter des données précises et ciblées.
 - **Automatiser vos analyses** : faciliter les processus de collecte, nettoyage, et analyse de données de manière efficace.
 - **Avancer dans vos projets de recherche** : aller au-delà des outils sans codage pour des explorations plus complexes et adaptées à vos objectifs.
 
-Bien entendu, le parcours d’apprentissage peut être progressif. Pour le moment, concentrez-vous sur les techniques abordées ici. Mais gardez en tête que, plus vous maîtriserez les bases du code, plus vos capacités d'analyse et d’interaction avec les données s'élargiront.
+Bien entendu, le parcours d’apprentissage peut être progressif. Pour le moment, concentrez-vous sur les techniques abordées ici. Mais gardez en tête que, plus vous maîtriserez les bases du **codage informatique**, plus vos capacités d'analyse et d’interaction avec les données s'élargiront.
 
 **Bonne exploration, et n’hésitez pas à consulter le guide pour commencer votre apprentissage !**
 ---
-**Rappel** : La page de ressources restera en ligne et continuera d'être enrichie pour intégrer de nouveaux outils et de nouvelles méthodes d'analyse en fonction de l'évolution des technologies.
+**Rappel** : La page de ressource restera en ligne et continuera d'être enrichie pour intégrer de nouveaux outils et de nouvelles méthodes d'analyse en fonction de l'évolution des technologies.
 
 

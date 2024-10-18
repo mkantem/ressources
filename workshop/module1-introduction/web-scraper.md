@@ -6,7 +6,6 @@ grand_parent: "Introduction et scraping de données"
 ancestor: "Traitements du langage et Social media"
 nav_order: 2
 ---
-
 # Web Scraper (Extension Chrome)
 
 **Web Scraper** est une extension gratuite pour le navigateur Chrome qui vous permet de scraper des données depuis des pages web. Il est idéal pour les utilisateurs sans compétences en programmation qui souhaitent collecter des informations structurées telles que des tableaux, des listes ou des articles.
@@ -19,9 +18,9 @@ Web Scraper est un outil très intuitif permettant de créer des plans de scrapi
 
 ### Pourquoi utiliser Web Scraper ?
 
-- **Gratuit et facile à utiliser** : Aucune compétence en programmation n'est nécessaire.
-- **Interface intuitive** : Configurez les sitemaps directement via l'extension Chrome.
-- **Compatibilité** : Fonctionne bien avec les sites statiques et semi-dynamiques.
+- **Gratuit et facile à utiliser** : aucune compétence en programmation n'est nécessaire.
+- **Interface intuitive** : configurez les sitemaps directement via l'extension Chrome.
+- **Compatibilité** : fonctionne bien avec les sites statiques et semi-dynamiques.
 
 ## Installation de Web Scraper
 
@@ -68,7 +67,7 @@ Voici un guide étape par étape pour utiliser Web Scraper et extraire des donn�
 
 - Après avoir créé le sitemap, cliquez sur **Add new selector**.
 - Sélectionnez un élément de la page (par exemple, les titres des articles ou les dates).
-  - Vous pouvez cliquer directement sur les éléments à scraper dans la page pour les ajouter comme sélecteurs.
+- Vous pouvez cliquer directement sur les éléments à scraper dans la page pour les ajouter comme sélecteurs.
 - Donnez un nom à chaque sélecteur (par exemple, `titre` ou `date`).
 - Choisissez le type de données que vous voulez extraire (par exemple, **texte** ou **lien**).
 - Répétez ces étapes pour chaque élément que vous souhaitez scraper.

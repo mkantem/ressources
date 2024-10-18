@@ -3,7 +3,7 @@ layout: default
 title: "Distribution des mots"
 parent: "Analyse textuelle"
 grand_parent: "Traitements du langage et Social media"
-nav_order: 9
+nav_order: 6
 ---
 
 # Distribution 
@@ -47,25 +47,25 @@ Avant d'utiliser le widget **Distribution**, il est nécessaire de transformer l
 - **Action** :
   - Importer vos données textuelles dans Orange.
 
-#### Étape 2 : Prétraitement du Texte
+#### Étape 2 : prétraitement du texte
 
 - **Widget utilisé** : **Prétraitement du Texte**
 - **Action** :
   - Nettoyer et préparer le texte pour l'analyse.
 
-#### Étape 3 : Création du sac de Mots
+#### Étape 3 : création du sac de Mots
 
 - **Widget utilisé** : **Bag of Words**
 - **Action** :
   - Convertir le corpus prétraité en une matrice de termes.
 
-#### Étape 4 : Sélection de la variable de mot
+#### Étape 4 : sélection de la variable de mot
 
 - **Widget utilisé** : **Select columns**
 - **Action** :
   - Sélectionner le ou les mots spécifiques que vous souhaitez analyser, ou choisir la variable représentant les mots.
 
-#### Étape 5 : Visualisation avec le Widget Distribution
+#### Étape 5 : visualisation avec le Widget Distribution
 
 - **Widget utilisé** : **Distribution**
 - **Action** :
@@ -75,9 +75,9 @@ Avant d'utiliser le widget **Distribution**, il est nécessaire de transformer l
 
 ### 2.3 Options du Widget Distribution
 
-- **Variable à Visualiser** : choisissez la variable représentant les mots ou les fréquences.
+- **Variable à visualiser** : choisissez la variable représentant les mots ou les fréquences.
 - **Groupes** : si vous avez une variable de classe (par exemple, sentiment positif/négatif), vous pouvez comparer la distribution entre les groupes.
-- **Type de Graphique** : Histogramme, diagramme en barres, etc.
+- **Type de graphique** : Histogramme, diagramme en barres, etc.
 
 ## 3. Interprétation des résultats
 
@@ -88,8 +88,8 @@ Avant d'utiliser le widget **Distribution**, il est nécessaire de transformer l
 
 ### 3.2 Comparaison entre groupes
 
-- **Différences de fréquence** : Identifiez les mots qui sont plus fréquents dans un groupe par rapport à un autre.
-- **Insights sur les thèmes** : Comprendre quels mots ou thèmes sont associés à différents sous-ensembles de données.
+- **Différences de fréquence** : identifiez les mots qui sont plus fréquents dans un groupe par rapport à un autre.
+- **Insights sur les thèmes** : comprendre quels mots ou thèmes sont associés à différents sous-ensembles de données.
 
 ### 3.3 Sélection interactive
 
@@ -119,6 +119,7 @@ Supposons que vous analysiez des avis des participants a votre etude avec des é
 ## Conclusion
 
 Le widget **Distribution** est un outil essentiel pour explorer la fréquence et la répartition des mots dans un corpus textuel. Il offre une visualisation claire qui facilite l'identification des mots clés et la compréhension des tendances dans les données. En l'utilisant conjointement avec d'autres widgets dans Orange, vous pouvez mener une analyse textuelle approfondie sans avoir besoin de coder.
+
 ---
 
 **Remarque :**

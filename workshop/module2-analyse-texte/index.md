@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Analyse textuelle"
-nav_order: 2
 parent: "Traitements du langage et Social media"
+nav_order: 2
 has_children: true
 ---
 
@@ -54,8 +54,8 @@ Le prétraitement est une étape cruciale qui prépare les données textuelles p
 #### 2.1.4 Normalisation du Texte
 
 - **Minuscule** : conversion de tout le texte en minuscules pour uniformiser les tokens.
-- **Suppression de la ponctuation** : Élimination des signes de ponctuation qui peuvent interférer avec l'analyse.
-- **Traitement des abréviations et émojis** : selon le contexte, il peut être nécessaire de gérer spécifiquement les abréviations, les acronymes et les émojis (dans les tweets par exemple).
+- **Suppression de la ponctuation** : élimination des signes de ponctuation qui peuvent interférer avec l'analyse.
+- **Traitement des abréviations** : selon le contexte, il peut être nécessaire de gérer spécifiquement les abréviations, les acronymes...
 
 ### 2.2 Représentation du texte
 
@@ -94,7 +94,6 @@ Après le prétraitement, il est nécessaire de représenter le texte d'une mani
 - **Définition** : identification et classification des entités telles que les noms de personnes, d'organisations, de lieux, etc.
 - **Utilité** : enrichissement des données, analyse des relations entre entités.
 
-
 ## Conclusion
 
 L'analyse textuelle est un outil puissant pour transformer des données non structurées en informations exploitables. Grâce à des outils sans codage comme **Orange Data Mining**, il est possible de réaliser des analyses complexes de manière intuitive.
@@ -103,7 +102,7 @@ L'analyse textuelle est un outil puissant pour transformer des données non stru
 
 **Prochaines Étapes :**
 
-- **Tutoriel pratique** : dans la section suivante, nous mettrons en pratique ces concepts en utilisant **Orange Data Mining** pour analyser un ensemble de tweets.
-- **Téléchargement des outils** : assurez-vous d'avoir installé [Orange Data Mining](/workshop/module2-analyse-donnees/section1-analyse-textuelle/outils.html) avant de commencer le tutoriel pratique.
+- **Tutoriel pratique** : dans la section suivante, nous mettrons en pratique ces concepts en utilisant **Voyant Tools** et **Orange Data Mining** pour analyser des data (revue documentaire, identification de gap dans la literrature, ensemble de tweets)
+- **Téléchargement des outils** : assurez-vous d'avoir lu la section [Outils](/workshop/module2-analyse-donnees/section1-analyse-textuelle/outils.html) avant de commencer le tutoriel pratique.
 
 

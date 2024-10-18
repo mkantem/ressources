@@ -35,10 +35,10 @@ Aucun pré-requis technique n’est nécessaire pour suivre ce module. Tous les 
 
 ## Premiers concepts
 
-Avant de plonger dans l'utilisation des outils, il est essentiel de comprendre les bases du scraping de données, notamment :
+Avant de plonger dans l'utilisation des outils, il est essentiel de comprendre les bases du scraping de données, notamment:
 
 - **Les sources de données** : les plateformes comme Facebook, Twitter, YouTube et les sites web en général fournissent une grande quantité de données exploitables.
-- **L'éthique du scraping de données** : il est primordial de respecter les politiques de confidentialité et d'utilisation des données lors de l'extraction d'informations en ligne.
+- [**L'éthique du scraping de données**](/workshop/module4-ethique/index.md) : il est primordial de respecter les politiques de confidentialité et d'utilisation des données lors de l'extraction d'informations en ligne.
 
 ### Ce que vous apprendrez
 

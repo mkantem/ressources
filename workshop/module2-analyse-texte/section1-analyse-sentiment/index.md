@@ -3,7 +3,7 @@ layout: default
 title: "Analyse de sentiment"
 parent: "Analyse textuelle"
 grand_parent: "Traitements du langage et Social media"
-nav_order: 3
+nav_order: 2
 ---
 
 # Analyse de sentiment

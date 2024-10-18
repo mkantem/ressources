@@ -3,7 +3,7 @@ layout: default
 title: "Enrichissement des mots"
 parent: "Analyse textuelle"
 grand_parent: "Traitements du langage et Social media"
-nav_order: 8
+nav_order: 5
 ---
 
 # Enrichissement de mots
@@ -33,19 +33,19 @@ Le widget **Word Enrichment** dans Orange calcule la significativité statistiqu
 
 ### 2.1 Entrées du Widget
 
-- **Corpus** : L'ensemble des documents textuels.
-- **Données sélectionnées** : Un sous-ensemble de documents sélectionnés à partir du corpus.
+- **Corpus** : l'ensemble des documents textuels.
+- **Données sélectionnées** : un sous-ensemble de documents sélectionnés à partir du corpus.
 
 ### 2.2 Sorties du widget
 
-- **Aucune sortie directe** : Les résultats sont affichés dans le widget lui-même.
+- **Aucune sortie directe** : les résultats sont affichés dans le widget lui-même.
 
 ### 2.3 Interprétation des résultats
 
 - **p-value** : indique la probabilité que l'observation d'un mot soit due au hasard. Une p-value plus faible signifie que le mot est plus significativement associé au sous-ensemble sélectionné.
 - **FDR (False Discovery Rate)** : représente le taux de fausses découvertes attendu dans la liste des mots significatifs, prenant en compte les tests multiples.
 
-## 3. Utilisation Pratique avec des tweets sur la Politique
+## 3. Utilisation pratique avec des tweets sur la Politique
 
 ### Contexte
 
@@ -55,15 +55,17 @@ Supposons que vous ayez collecté un ensemble de tweets sur des sujets politique
 
 - **Collecte des données** :
   - Utilisez un outil comme **Lobster** ou le widget Orange Data Mining pour extraire des tweets contenant des mots-clés ou hashtags politiques (par exemple, `#élections2024`, `#écologie`, `#économie`).
-- **Prétraitement** :
-  - Nettoyez les tweets en supprimant les URLs, mentions, emojis, etc.
-  - Appliquez une tokenisation et supprimez les mots vides.
+
 
 ### Étape 2 : Importer les données dans orange
 
 - **Widget utilisé** : **Corpus**
 - **Action** :
-  - Importez le fichier contenant les tweets prétraités.
+  - Importez le fichier contenant les tweets 
+
+   - **Prétraitement** :
+     - Nettoyez les tweets 
+     - Appliquez une tokenisation et supprimez les mots vides.prétraités.
 
 ### Étape 3 : sélectionner un sous-ensemble de tweets
 
@@ -97,7 +99,7 @@ Supposons que vous ayez collecté un ensemble de tweets sur des sujets politique
 - **FDR** :
   - Permet de contrôler le taux de fausses découvertes, important lorsque de nombreux tests sont effectués.
 
-### 4.2 Utilisation des Résultats
+### 4.2 Utilisation des résultats
 
 - **Compréhension des thèmes** :
   - Identifiez les préoccupations majeures des utilisateurs sur le sujet sélectionné.

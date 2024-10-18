@@ -15,8 +15,7 @@ Depending on the context in which a specific content or workshop was created, yo
 
 This site was built using the following open-source tools:
 
-- **Jekyll**: A static site generator that simplifies the creation of fast, customizable websites.
-
+- **Jekyll**: a static site generator that is written in [Ruby](https://jekyllrb.com/docs/ruby-101/#:~:text=Jekyll%20is%20written%20in%20Ruby,learn%20some%20of%20the%20terminology){:target="_blank"} language by Tom Preston-Werner. 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
@@ -24,12 +23,13 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-- **Just the Docs**: A Jekyll theme that provides a clean, simple, and organized layout for documentation.
-- **GitHub Pages**: Used to host the site, ensuring it's easily accessible and open for public collaboration.
-- **Markdown**: For simple formatting of the site's content.
-- **HTML and CSS**: Custom tweaks for layout and styling.
+- **Just the Docs**: a Jekyll theme that provides a clean, simple, and organized layout for documentation.
+- **GitHub pages**: used to host the site, ensuring it's easily accessible and open for public collaboration.
+- **Markdown**: for simple formatting of the site's content.
+- **HTML and CSS**: custom tweaks for layout and styling.
+- **Logo**: the logo used is sourced from [SVGRepo](https://www.svgrepo.com/svg/397375/man-teacher-medium-skin-tone)
   
-These tools were selected for their ease of use, flexibility, and adherence to open-source principles.
+These tools were selected for their flexibility, and adherence to open-source principles.
 
 ## License
 
@@ -62,7 +62,7 @@ Selon le contexte dans lequel un contenu ou un atelier spécifique a été cré�
 
 Ce site a été construit en utilisant les outils open-source suivants :
 
-- **Jekyll** : Un générateur de sites statiques qui simplifie la création de sites rapides et personnalisables.
+- **Jekyll** : Un générateur de sites statiques en [Ruby](https://jekyllrb.com/docs/ruby-101/#:~:text=Jekyll%20is%20written%20in%20Ruby,learn%20some%20of%20the%20terminology){:target="_blank"} qui simplifie la création de sites rapides et personnalisables.
 
 Vous pouvez trouver le code source de Jekyll sur GitHub :
 [jekyll][jekyll-organization] /
@@ -74,8 +74,9 @@ Vous pouvez trouver le code source de Jekyll sur GitHub :
 - **GitHub Pages** : Utilisé pour héberger le site, garantissant qu'il soit facilement accessible et ouvert à la collaboration publique.
 - **Markdown** : Pour la mise en forme simple du contenu du site.
 - **HTML et CSS** : Ajustements personnalisés pour la mise en page et le style.
+- **Logo**: le logo vient de [SVGRepo](https://www.svgrepo.com/svg/397375/man-teacher-medium-skin-tone){:target="_blank"}
 
-Ces outils ont été choisis pour leur facilité d'utilisation, leur flexibilité et leur adhésion aux principes open-source.
+Ces outils ont été choisis pour leur flexibilité et leur adhésion aux principes open-source.
 
 ## Licence
 
@@ -85,5 +86,5 @@ Les ressources fournies sur ce site sont sous licence [Licence Publique Généra
 
 Si vous trouvez ces ressources utiles et souhaitez soutenir leur développement futur, vous pouvez contribuer en faisant un don. Votre soutien aide à maintenir et à étendre la portée de ces ressources gratuites.
 
-[Faire un don](https://mkante.ml/fr_FR/)
+[Faire un don](https://mkante.ml/fr_FR/donations/donation-form/){:target="_blank"}
 

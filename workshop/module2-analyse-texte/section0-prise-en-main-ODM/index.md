@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Overview ODM"
-parent: "Analyse textuelle"
-grand_parent: "Traitements du langage et Social media"
-nav_order: 2
+parent: "Outils"
+grand_parent: "Analyse textuelle"
+nav_order: 1
 ---
 
 # Aperçu de Orange Data Mining
@@ -98,7 +98,7 @@ Voici un exemple de flux de travail que nous explorerons en détail dans la sect
   - [Forum Orange](https://orange.biolab.si/forum/)
   - [GitHub Orange3 Text](https://github.com/biolab/orange3-text)
 
-## Conseils pour Bien Débuter
+## Conseils pour bien débuter
 
 - **Sauvegardez votre Flux de travail** : enregistrez régulièrement votre travail en utilisant **File** > **Save As**.
 - **Explorez les Widgets** : n'hésitez pas à passer votre souris sur les widgets pour voir une description de leur fonction.

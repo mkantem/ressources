@@ -39,7 +39,6 @@ De plus, vous pouvez bénéficier d'une réduction allant jusqu'à 50 % si vous 
 
 Octoparse propose une large gamme de tutoriels ainsi qu'un guide complet pour débutants, disponibles gratuitement en consultation 
 
-
 ### [Bienvenue sur Octoparse!](https://helpcenter.octoparse.com/fr/articles/6470918-bienvenue-sur-octoparse){:target="_blank"}
 
 ### [Découvrir Octoparse](https://helpcenter.octoparse.com/fr/articles/6470919-lecon-0-decouvrir-octoparse){:target="_blank"}

@@ -25,9 +25,10 @@ nav_order: 1
 
 - **Voyant Tools** : application web pour l'analyse textuelle en ligne.
   - Site web : [https://voyant-tools.org/](https://voyant-tools.org/?lang=fr){:target="_blank"}
+  - Prise en main : [overview, utilisation en ligne et installation du serveur en local](/workshop/module2-analyse-texte/section00-prise-en-main-voyant-tools/index.html)
   - Guide d'utilisation : [https://edutechwiki.unige.ch/fr/Voyant_Tools](https://edutechwiki.unige.ch/fr/Voyant_Tools){:target="_blank"}
 
-  ![ODM](../../assets/images/workshop/voyant-tool/vt1.png)
+  ![VT](../../assets/images/workshop/voyant-tool/vt1.png)
   
 - **KH Coder** : logiciel pour l'analyse quantitative de données textuelles.
   -  - Site web : [https://khcoder.net/en/](https://khcoder.net/en/){:target="_blank"}
