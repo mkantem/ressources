@@ -33,4 +33,4 @@ We welcome contributions from anyone interested in improving or expanding this e
 
 If you find these resources helpful and would like to support further development, you can contribute by making a donation. Your support helps to maintain and expand the scope of these free resources.
 
-[Donate](https://mkante.ml/en_US/donations/donation-form/){:target="_blank"}
+[Donate](https://mkante.ml/en_US/donations/donation-form/)

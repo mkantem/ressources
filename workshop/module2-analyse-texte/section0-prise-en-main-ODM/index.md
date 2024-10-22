@@ -40,7 +40,9 @@ Pour effectuer une analyse textuelle, vous devez installer l'add-on **Text**.
 
 ## Principales fonctionnalités pour l'analyse textuelle
 
-### 1. Widgets de Prétraitement du Texte
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nfchPB_Afw?si=TOK1NxrocicimZAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 1. Widgets de prétraitement du texte
 
 - **Corpus** : charge des données textuelles à partir de fichiers ou de sources en ligne.
 - **Prétraitement du Texte** : applique des opérations telles que la tokenisation, la lemmatisation, la suppression des stop words, etc.
@@ -91,7 +93,7 @@ Voici un exemple de flux de travail que nous explorerons en détail dans la sect
 
    - Employez des widgets comme **Scatter Plot** ou **Heat Map** pour explorer les relations dans les données.
 
-## Ressources Utiles
+## Ressources utiles
 
 - **Documentation Officielle** : [Orange Text Mining Documentation](https://orange.biolab.si/widget-catalog/text-mining/)
 - **Communauté et Support** :
