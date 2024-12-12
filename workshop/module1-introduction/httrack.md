@@ -24,6 +24,10 @@ Pour installer HTTrack :
 
 ### Utilisation de HTTrack
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEJgmOK0QbA?si=sFGFXgT_1sw1kr1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Une fois installé, voici comment utiliser HTTrack pour copier un site web :
 
 ![HTTrack](../../assets/images/workshop/httrack2.png) 
@@ -62,6 +66,10 @@ Une fois installé, voici comment utiliser HTTrack pour copier un site web :
 4. Naviguez sur le site copié hors ligne.
 
 ---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEJgmOK0QbA?si=sFGFXgT_1sw1kr1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Conclusion
 
