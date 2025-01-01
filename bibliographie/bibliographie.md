@@ -46,6 +46,10 @@ Zotero est un logiciel gratuit et open source qui simplifie la gestion des réf�
 - [Configuration de Endnote](/bibliographie/jabref/setting-up-endnote.html) : installation et configuration
 -
 
+### Publish Or Perish (the app!)
+- [Introduction, Installation, et Utilisation](/bibliographie/pop/introduction-pop.html)
+- [Indicateurs Bibliométriques](/bibliographie/pop/indicateurs-pop.html)
+
 ## À Venir
 Nous prévoyons d’ajouter des sections sur :
 - **Mendeley** : un autre outil populaire de gestion bibliographique.

@@ -16,6 +16,8 @@ has_children: true
 - Cliquez sur "Ajouter une Citation" dans votre document.
 - Sélectionnez le style de citation souhaité (APA, MLA, Chicago, etc.).
 
+![Z](/assets/images/references/zotero/6.png)
+
 ## Générer des bibliographies
 - Sélectionnez vos références dans Zotero.
 - Faites un clic droit et choisissez "Créer une Bibliographie".

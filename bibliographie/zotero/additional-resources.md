@@ -14,6 +14,8 @@ has_children: true
 - **DOI Manager** : vérifie et complète les DOIs manquants.
 - ....
 
+![Z](/assets/images/references/zotero/11.png)
+
 ## 2. Tutoriels et documentation officiels
 - [Guide officiel zotero](https://www.zotero.org/support/)
 - [Tutoriels vidéo sur Zotero](https://www.zotero.org/support/screencast_tutorials)
