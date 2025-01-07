@@ -23,12 +23,13 @@ Le réseau de chaînes YouTube se concentre sur les relations d’abonnement :
 - Visualiser les **collaborations potentielles** ou les liens d'influence entre chaînes.
 
 ## Exemple de cas pratique
-Dans ce tutoriel, nous allons utiliser l'API YouTube pour extraire les données d’abonnement de chaînes et créer un fichier CSV des connexions. Les données seront ensuite importées dans Gephi pour analyser la structure du réseau.
 
 ### Étapes pratiques
 1. **Collecte de données** : extraire les abonnements entre chaînes via l’API YouTube.
 2. **Préparation des Données** : organiser les abonnements sous forme de source (chaîne abonnée) et cible (chaîne abonnée).
 3. **Visualisation avec Gephi** : importer les données dans Gephi pour identifier des communautés et visualiser les relations.
+
+[Testez vos connaissances avec des données réelles – cliquez ici pour y accéder.](https://github.com/mkantem/practice-datasets/tree/main/Gephi/Channel%20network){:target="_blank"}
 
 ## Conclusion
 L'analyse des réseaux de chaînes YouTube permet de mettre en évidence des groupes d'influence et des niches, offrant un aperçu des dynamiques communautaires et des stratégies de contenu sur la plateforme.
